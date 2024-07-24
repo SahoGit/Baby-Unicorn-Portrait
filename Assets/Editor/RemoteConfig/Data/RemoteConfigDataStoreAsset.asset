@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"2fbd813d-9d29-49e0-a93e-5b0c195061a4\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"AdsSettings\",\r\n      \"type\": \"json\",\r\n     
+    \"schemaId\": null,\r\n      \"value\": {\r\n        \"ShowInternetPopup\": true,\r\n       
+    \"ShowMediationOn2GB\": false,\r\n        \"NextInterstitialDelay\": 60\r\n     
+    }\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"6bb3b1c7-a880-415f-91b4-296492ea669a\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"AdmobSettings\",\r\n      \"type\": \"json\",\r\n     
+    \"schemaId\": null,\r\n      \"value\": {\r\n        \"BannerID\": \"ca-app-pub-3726917112395919/4941484222\",\r\n       
+    \"MrecID\": \"ca-app-pub-3726917112395919/4425892177\",\r\n        \"InterstitialID\":
+    \"ca-app-pub-3726917112395919/2684616853\",\r\n        \"RewardedID\": \"ca-app-pub-3726917112395919/4729144508\",\r\n       
+    \"AppOpenID\": \"ca-app-pub-3726917112395919/6313688911\"\r\n      }\r\n    }\r\n 
+    }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"2fbd813d-9d29-49e0-a93e-5b0c195061a4\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"AdsSettings\",\r\n      \"type\": \"json\",\r\n     
+    \"schemaId\": null,\r\n      \"value\": {\r\n        \"ShowInternetPopup\": true,\r\n       
+    \"ShowMediationOn2GB\": false,\r\n        \"NextInterstitialDelay\": 60\r\n     
+    }\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"6bb3b1c7-a880-415f-91b4-296492ea669a\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"AdmobSettings\",\r\n      \"type\": \"json\",\r\n     
+    \"schemaId\": null,\r\n      \"value\": {\r\n        \"BannerID\": \"ca-app-pub-3726917112395919/4941484222\",\r\n       
+    \"MrecID\": \"ca-app-pub-3726917112395919/4425892177\",\r\n        \"InterstitialID\":
+    \"ca-app-pub-3726917112395919/2684616853\",\r\n        \"RewardedID\": \"ca-app-pub-3726917112395919/4729144508\",\r\n       
+    \"AppOpenID\": \"ca-app-pub-3726917112395919/6313688911\"\r\n      }\r\n    }\r\n 
+    }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"543cefb8-5de1-483e-a445-ffc8cabb0571\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"9ceb5033-e7b4-4f33-a348-cc0a07e56822\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2023-10-21T13:37:35Z\",\r\n    \"updatedAt\":
+    \"2023-10-21T13:37:35Z\"\r\n  }\r\n]"

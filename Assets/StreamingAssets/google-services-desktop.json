@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1098468842010",
+    "project_id": "unicorn-baby-games-pd-pot",
+    "storage_bucket": "unicorn-baby-games-pd-pot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098468842010:android:448dd093da3fa7d613cfa3",
+        "android_client_info": {
+          "package_name": "com.pd.unicornbaby.ponycaregames"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASZWuyqen15_E6dWXHXLGMn7JkQ7eUbbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
